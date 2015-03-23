@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ex2_1</string>
+    <string name="tvhint">點擊目錄按鈕</string>
+    <string name="menu">請選擇項目</string>
+    <string name="wallpaper">請選擇桌布</string>
+    <string name="color">請選擇顏色</string>
+    <string name="ch2">change Background Color</string>
+    <string name="ch1">change Wallpaper</string>
+    <string name="wallpaperA">WallpaperA</string>
+    <string name="wallpaperB">WallpaperB</string>
+    <string name="wallpaperC">WallpaperC</string>
+    <string name="clear">清除</string>
+    <string name="background">背景色</string>
+    <string name="yellow">Yellow</string>
+    <string name="blue">Blue</string>
+    <string name="red">Red</string>
+    <string name="exit">離開</string>
+</resources>
